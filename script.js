@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
 
     // --- Live Age Counter ---
-    const birthDate = new Date('2008-7-27T00:00:00');
+    const birthDate = new Date('2008-7-28T00:00:00');
     const countdownElement = document.getElementById('countdown');
 
     function updateAge() {
